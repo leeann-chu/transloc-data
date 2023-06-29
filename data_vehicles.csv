@@ -1,0 +1,2 @@
+standing_capacity,description,seating_capacity,last_updated_on,call_name,speed,vehicle_id,segment_id,passenger_load,route_id,arrival_estimates,tracking_status,location,heading
+,,,2023-06-29T01:59:59+00:00,1902,0.0,4018839,,0.0,4004562,[],up,"{'lat': 43.12189, 'lng': -77.62319}",263
